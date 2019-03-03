@@ -1,2 +1,2 @@
 # DataLitPractice
-Data Lit practice stuff
+Data Lit assignments 
